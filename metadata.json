@@ -1,0 +1,6 @@
+{
+  "name": "Queue Management System",
+  "description": "A real-time token-based queue management system for patient and receptionist coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
