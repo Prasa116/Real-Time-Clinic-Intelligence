@@ -54,11 +54,11 @@ Many clinics still rely on manual token systems, causing long waiting times and 
 
 ## GitHub Repository
 
-[Add your GitHub repository link here]
+https://github.com/Prasa116/Real-Time-Clinic-Intelligence/tree/main#github-repository
 
 ## Live Demo
 
-[Add your deployed project link here]
+https://real-time-clinic-intelligence.vercel.app/
 
 ## Author
 
